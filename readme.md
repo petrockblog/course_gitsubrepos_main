@@ -1,3 +1,3 @@
-# Parent repository
+# Main Repository
 
-This is the initial content.
+This repository contains a subrepository as Git submodule.
